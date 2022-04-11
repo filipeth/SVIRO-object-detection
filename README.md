@@ -1,5 +1,5 @@
 # SVIRO-object-detection
-This project aims to develop an object detection using transfer leaning from EfficienteDet.
+This project aims to develop an object detection using transfer leaning from EfficientDet.
 
 **Goal**: Build a solution for child seat localization in the passanger vehicle.
 
